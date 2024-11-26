@@ -14,18 +14,27 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🍽️ Picato - Food Website
+Picato is a food-related website designed to showcase various food items and provide users with a seamless browsing experience. Built using Next.js for server-side rendering and Tailwind CSS for styling, the website offers a responsive and interactive interface for users to explore food categories, recipes, and more.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+🚀 Features
+🍔 Food Categories: Display different categories like appetizers, main courses, desserts, etc.
+🍴 Recipe Listings: Showcase individual recipes with ingredients, instructions, and images.
+📱 Responsive Design: Fully responsive layout using Tailwind CSS, optimized for all devices.
+🔍 Search Functionality: Allows users to search for recipes or food items by name or ingredient.
+🌍 Global Reach: Displays recipes from different cultures and regions.
+🛠️ Tech Stack
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Frontend
+Next.js (React framework for server-side rendering and static site generation)
+Tailwind CSS (Utility-first CSS framework for rapid UI development)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
+
+
 
 ## Deploy on Vercel
 
